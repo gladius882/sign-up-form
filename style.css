@@ -107,3 +107,8 @@ button {
     font-weight: bold;
 }
 
+a, a:link, a:visited {
+    color: #596D48;
+    text-decoration: none;
+    font-weight: normal;
+}
