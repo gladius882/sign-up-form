@@ -45,3 +45,18 @@ body {
 img {
     height: 15vh;
 }
+
+.form {
+    width: 80%;
+}
+
+.form-fields {
+    display: grid;
+    gap: 10px;
+    grid-template: 50% 50% / 50% 50%;
+}
+
+.form-element {
+    display: flex;
+    flex-direction: column;
+}
